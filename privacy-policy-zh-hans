@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+  <html lang="zh-Hans">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Plastar - 隐私政策</title>
+      <style>
+          body {
+              font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+  Roboto, "PingFang SC", "Microsoft YaHei", sans-serif;
+              max-width: 700px;
+              margin: 0 auto;
+              padding: 40px 20px;
+              color: #333;
+              line-height: 1.8;
+          }
+          h1 { font-size: 28px; margin-bottom: 4px; }
+          h2 { font-size: 20px; margin-top: 32px; }
+          p.updated { color: #666; font-size: 14px; margin-top: 0; }
+          a { color: #007aff; }
+      </style>
+  </head>
+  <body>
+      <h1>隐私政策</h1>
+      <p class="updated">最后更新：2026年4月15日</p>
+
+      <h2>概述</h2>
+      <p>Plastar（以下简称"本应用"）由 Runyi Yao
+  开发。我们非常重视您的隐私。本隐私政策说明了本应用如何处理您的信息。</p>
+
+      <h2>数据收集</h2>
+      <p>本应用<strong>不会</strong>向外部服务器收集、存储或传输任何个人数据。本
+  应用完全离线运行，无需互联网连接。</p>
+
+      <h2>相机与照片图库</h2>
+      <p>本应用需要访问以下权限：</p>
+      <ul>
+          <li><strong>相机</strong>：用于为您的胶卷拍摄照片。</li>
+          <li><strong>照片图库（仅写入）</strong>：用于将冲洗完成的照片保存到您
+  设备的照片图库中。</li>
+      </ul>
+      <p>照片和胶卷数据仅存储在您的设备本地，绝不会上传到任何服务器。</p>
+
+      <h2>本地数据存储</h2>
+      <p>本应用在您的设备本地存储以下数据：</p>
+      <ul>
+          <li>胶卷信息（胶片类型、帧数、日期）</li>
+          <li>拍摄的照片（原始版本和滤镜版本）</li>
+          <li>应用偏好设置（例如：引导流程完成状态）</li>
+      </ul>
+      <p>这些数据仅保留在您的设备上，我们或任何第三方均无法访问。</p>
+
+      <h2>通知</h2>
+      <p>本应用可能会请求发送本地通知的权限，以便在您的胶卷冲洗完成时提醒您。这
+  些通知完全在您的设备上调度，不涉及任何推送通知服务器。</p>
+
+      <h2>第三方服务</h2>
+
+  <p>本应用<strong>不使用</strong>任何第三方分析、广告、崩溃报告或跟踪服务。</p>
+
+      <h2>跟踪</h2>
+      <p>本应用<strong>不会</strong>以任何方式跟踪您。不使用广告标识符、分析工具
+  或行为跟踪。</p>
+
+      <h2>儿童隐私</h2>
+      <p>本应用不会故意收集任何人的个人信息，包括13岁以下的儿童。</p>
+
+      <h2>政策变更</h2>
+      <p>我们可能会不时更新本隐私政策。任何变更将以更新的修订日期发布在此页面上
+  。</p>
+
+      <h2>联系我们</h2>
+      <p>如果您对本隐私政策有任何疑问，请通过 <a 
+  href="mailto:yao.runyi33@outlook.com">yao.runyi33@outlook.com</a>
+  与我们联系。</p>
+  </body>
+  </html>
