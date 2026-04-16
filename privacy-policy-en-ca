@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+  <html lang="en-CA">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Plastar - Privacy Policy</title>
+      <style>
+          body {
+              font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+  Roboto, Helvetica, Arial, sans-serif;
+              max-width: 700px;
+              margin: 0 auto;
+              padding: 40px 20px;
+              color: #333;
+              line-height: 1.6;
+          }
+          h1 { font-size: 28px; margin-bottom: 4px; }
+          h2 { font-size: 20px; margin-top: 32px; }
+          p.updated { color: #666; font-size: 14px; margin-top: 0; }
+          a { color: #007aff; }
+      </style>
+  </head>
+  <body>
+      <h1>Privacy Policy</h1>
+      <p class="updated">Last updated: April 15, 2026</p>
+
+      <h2>Overview</h2>
+      <p>Plastar ("the App") is developed by Runyi Yao. Your privacy is
+  important to us. This privacy policy explains how the App handles your
+  information.</p>
+
+      <h2>Data Collection</h2>
+      <p>The App does <strong>not</strong> collect, store, or transmit any
+  personal data to external servers. The App operates entirely offline with no
+  internet connectivity required.</p>
+
+      <h2>Camera and Photo Library</h2>
+      <p>The App requires access to:</p>
+      <ul>
+          <li><strong>Camera</strong>: To capture photos for your film
+  rolls.</li>
+          <li><strong>Photo Library (write-only)</strong>: To save developed
+  photos to your device's photo library.</li>
+      </ul>
+      <p>Photos and film roll data are stored locally on your device only and
+  are never uploaded to any server.</p>
+
+      <h2>Local Data Storage</h2>
+      <p>The App stores the following data locally on your device:</p>
+      <ul>
+          <li>Film roll information (film stock, frame count, dates)</li>
+          <li>Captured photos (original and filtered versions)</li>
+          <li>App preferences (e.g., onboarding completion)</li>
+      </ul>
+      <p>This data remains exclusively on your device and is not accessible to
+  us or any third party.</p>
+
+      <h2>Notifications</h2>
+      <p>The App may request permission to send local notifications to remind
+  you when your film roll has finished developing. These notifications are
+  scheduled entirely on your device — no push notification servers are
+  involved.</p>
+
+      <h2>Third-Party Services</h2>
+      <p>The App does <strong>not</strong> use any third-party analytics,
+  advertising, crash reporting, or tracking services.</p>
+
+      <h2>Tracking</h2>
+      <p>The App does <strong>not</strong> track you in any way. No advertising
+  identifiers, analytics tools, or behavioural tracking are used.</p>
+
+      <h2>Children's Privacy</h2>
+      <p>The App does not knowingly collect any personal information from
+  anyone, including children under 13.</p>
+
+      <h2>Changes to This Policy</h2>
+      <p>We may update this privacy policy from time to time. Any changes will
+  be posted on this page with an updated revision date.</p>
+
+      <h2>Contact</h2>
+      <p>If you have questions about this privacy policy, please contact us at
+  <a href="mailto:yao.runyi33@outlook.com">yao.runyi33@outlook.com</a>.</p>
+  </body>
+  </html>
