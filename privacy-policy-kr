@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+  <html lang="ko">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Plastar - 개인정보 처리방침</title>
+      <style>
+          body {
+              font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+  Roboto, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+              max-width: 700px;
+              margin: 0 auto;
+              padding: 40px 20px;
+              color: #333;
+              line-height: 1.8;
+          }
+          h1 { font-size: 28px; margin-bottom: 4px; }
+          h2 { font-size: 20px; margin-top: 32px; }
+          p.updated { color: #666; font-size: 14px; margin-top: 0; }
+          a { color: #007aff; }
+      </style>
+  </head>
+  <body>
+      <h1>개인정보 처리방침</h1>
+      <p class="updated">최종 업데이트: 2026년 4월 15일</p>
+
+      <h2>개요</h2>
+      <p>Plastar(이하 "본 앱")는 Runyi Yao가 개발하였습니다. 귀하의 개인정보는
+  저희에게 중요합니다. 본 개인정보 처리방침은 본 앱이 귀하의 정보를 어떻게
+  처리하는지 설명합니다.</p>
+
+      <h2>데이터 수집</h2>
+      <p>본 앱은 개인 데이터를 외부 서버로 수집, 저장 또는 전송하지
+  <strong>않습니다</strong>. 본 앱은 인터넷 연결 없이 완전히 오프라인으로
+  작동합니다.</p>
+
+      <h2>카메라 및 사진 라이브러리</h2>
+      <p>본 앱은 다음에 대한 접근 권한이 필요합니다:</p>
+      <ul>
+          <li><strong>카메라</strong>: 필름 롤용 사진을 촬영하기 위해
+  사용됩니다.</li>
+          <li><strong>사진 라이브러리 (쓰기 전용)</strong>: 현상된 사진을 기기의
+   사진 라이브러리에 저장하기 위해 사용됩니다.</li>
+      </ul>
+      <p>사진 및 필름 롤 데이터는 귀하의 기기에만 로컬로 저장되며, 어떠한
+  서버에도 업로드되지 않습니다.</p>
+
+      <h2>로컬 데이터 저장</h2>
+      <p>본 앱은 다음 데이터를 귀하의 기기에 로컬로 저장합니다:</p>
+      <ul>
+          <li>필름 롤 정보 (필름 종류, 프레임 수, 날짜)</li>
+          <li>촬영된 사진 (원본 및 필터 적용 버전)</li>
+          <li>앱 환경설정 (예: 온보딩 완료 여부)</li>
+      </ul>
+      <p>이 데이터는 귀하의 기기에만 저장되며, 저희나 제3자가 접근할 수
+  없습니다.</p>
+
+      <h2>알림</h2>
+      <p>본 앱은 필름 롤의 현상이 완료되었을 때 알려드리기 위해 로컬 알림 전송
+  권한을 요청할 수 있습니다. 이 알림은 전적으로 귀하의 기기에서 예약되며, 푸시
+  알림 서버는 사용되지 않습니다.</p>
+
+      <h2>제3자 서비스</h2>
+      <p>본 앱은 제3자 분석, 광고, 충돌 보고 또는 추적 서비스를 <strong>일절
+  사용하지 않습니다</strong>.</p>
+
+      <h2>추적</h2>
+      <p>본 앱은 귀하를 <strong>어떠한 방식으로도 추적하지 않습니다</strong>.
+  광고 식별자, 분석 도구 또는 행동 추적이 사용되지 않습니다.</p>
+
+      <h2>아동의 개인정보</h2>
+      <p>본 앱은 13세 미만의 아동을 포함하여 누구로부터도 고의로 개인정보를
+  수집하지 않습니다.</p>
+
+      <h2>본 방침의 변경</h2>
+      <p>본 개인정보 처리방침은 수시로 업데이트될 수 있습니다. 변경 사항이 있을
+  경우 업데이트된 개정일과 함께 이 페이지에 게시됩니다.</p>
+
+      <h2>문의</h2>
+      <p>본 개인정보 처리방침에 관한 질문이 있으시면 <a 
+  href="mailto:yao.runyi33@outlook.com">yao.runyi33@outlook.com</a>으로 연락해
+  주십시오.</p>
+  </body>
+  </html>
